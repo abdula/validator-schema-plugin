@@ -1,0 +1,15 @@
+{
+  "name": "validator-schema-plugin",
+  "description": "Validator Plugin",
+  "version": "0.0.1",
+  "dependencies": {
+    "validator": "~3.5.1"
+  },
+  "scripts": {
+    "test": "mocha ./tests/index.js"
+  },
+  "devDependencies": {
+    "mocha": "~1.18.2",
+    "should": "~3.3.1"
+  }
+}
